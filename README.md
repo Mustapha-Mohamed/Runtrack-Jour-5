@@ -1,2 +1,0 @@
-# jour-git
-projet
